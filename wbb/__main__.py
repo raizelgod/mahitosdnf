@@ -113,7 +113,7 @@ async def help_command(_, message):
             ]
         ]
     )
-    await message.reply(f"Hey there! My name is {BOT_NAME}. I can manage your group with lots of useful features, feel free to add me to your group.", reply_markup=keyboard)
+    await message.reply(f"Hey there![.](https://telegra.ph/file/dfc1f1a221adc09391735.jpg) My name is {BOT_NAME}. I can manage your group with lots of useful features, feel free to add me to your group.", reply_markup=keyboard)
 
 
 async def help_parser(name, keyboard=None):
