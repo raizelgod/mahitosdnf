@@ -123,7 +123,7 @@ async def help_parser(name, keyboard=None):
         """Hello {first_name}! My name is {bot_name}!
 I'm a group management bot with some usefule features.
 You can choose an option below, by clicking a button.
-Also you can ask anything in Support Group.
+Also you can ask anything in Support Group.[.](https://telegra.ph/file/0bd21a4c16f21ff6c5518.jpg)
 
 General command are:
  - /start: Start the bot
